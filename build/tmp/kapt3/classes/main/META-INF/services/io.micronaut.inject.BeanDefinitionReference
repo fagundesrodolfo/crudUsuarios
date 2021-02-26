@@ -1,0 +1,4 @@
+com.example.crud.services.$UserServiceImplementacaoDefinitionClass
+com.example.crud.controlls.$IndexControllDefinitionClass
+com.example.crud.controlls.$UserControllDefinitionClass
+com.example.crud.repository.$UserRepository$InterceptedDefinitionClass
